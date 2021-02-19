@@ -1,5 +1,5 @@
-{"version_code":205516006,"content":"
-<p>تحديث 10.80 (Update)</p>
+{"version_code":205516007,"content":"
+<p>تحديث 10.90 (Update)</p>
 
 
 <li>زيادة اعادة التوجية الى مالانهاية</li>
