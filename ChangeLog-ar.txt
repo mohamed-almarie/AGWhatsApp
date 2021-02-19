@@ -1,4 +1,4 @@
-{"version_code":451222,"content":"
+{"version_code":205516006,"content":"
 <p>تحديث 10.80 (Update)</p>
 
 
@@ -38,6 +38,7 @@
 <li> Other fixes and improvements discovered by yourself</li>
 
 
-","url":"https://www.3ssem.com/2019/09/agwhatsapp.html"
+","url":"
+https://developermohamedalmarie.blogspot.com"
 
 }
